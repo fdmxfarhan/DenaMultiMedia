@@ -1,0 +1,37 @@
+LCD LVDS To TTL Converter Board:
+
+LVDS to TTL Tcon Boar
+
+Input: 20Pin LVDS DF14-20Pin Connector
+
+Output: 50Pin TTL FFC Connector
+
+Board Size:56mm x 48m x 6mm
+
+Compatible Work With:
+
+6.5inch 800*480
+
+AT065TN14
+
+7inch 800*480
+
+AT070TN90 AT070TN92 EJ070NA-03A
+
+8inch 800*480
+
+AT080TN64
+
+8inch 800*600
+
+AT080TN52 EJ080NA-05A EJ080NA-05B
+
+9inch 800*480
+
+AT090TN10 AT090TN12
+
+Packing list :
+
+1× Tcon Board VS-TCON50-V1
+
+1× LVDS Cable
